@@ -1,6 +1,6 @@
 /**
  * @author Jose Abraham Gutierrez C., 19111
- * @date 01/04/2020
+ * @date 03/04/2020
  */
 public class Paciente implements Comparable<Paciente> {
     // Atributos utilizados
